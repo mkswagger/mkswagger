@@ -19,7 +19,7 @@
 
 
 <p style="background-color:powderblue;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkswagger&show_icons=true&locale=en" alt="mkswagger" /></p>
-<p style="background-color:powderblue;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=compact" alt="mkswagger" /></p>
+<!--<p style="background-color:powderblue;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=compact" alt="mkswagger" /></p>-->
 
 <p style="background-color:powderblue;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&" alt="mkswagger" /></p>
 
