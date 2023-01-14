@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathangy K</h1>
 <h3 align="center">Sophomore at SRMIST,KTR</h3>
-<img align="right" alt="hi" width=400 src="https://media.tenor.com/4F-62maQrGUAAAAC/satoru-gojo-tchau-satoru-gojo.gif">
+<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="right">
 
 - 🌱 I’m currently learning **Javascript,Neural Networks**
 
@@ -19,6 +19,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkswagger&show_icons=true&locale=en" alt="mkswagger" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=compact" alt="mkswagger" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&" alt="mkswagger" /></p>
 
 
