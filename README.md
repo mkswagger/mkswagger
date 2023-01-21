@@ -19,8 +19,8 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.herokuapp.com/?user=mkswagger&show_icons=true&theme=tokyonight" alt="mkswagger" /></p>-->
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=mkswagger&show_icons=true&theme=tokyonight" alt="mkswagger" /></p>-->
-<p style="background-color:powderblue;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mkswagger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=mkswagger&show_icons=true&theme=tokyonight" alt="mkswagger" /></p>
+<!--<p style="background-color:powderblue;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mkswagger" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mkswagger&show_icons=true&layout=compact&theme=tokyonight" alt="mkswagger" /></p>-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkswagger&layout=compact&show_icons=true&theme=tokyonight" alt="mkswagger" /></p>
