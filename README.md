@@ -28,3 +28,6 @@
 <p style="background-color:powderblue;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&theme=tokyonight" alt="mkswagger" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkswagger&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="mkswagger" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=mkswagger&theme=onedark" alt="mkswagger" /></p>
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
