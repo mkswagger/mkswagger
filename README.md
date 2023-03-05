@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathangy K</h1>
 <h3 align="center">Sophomore at SRMIST,KTR</h3>
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="right">
+<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="300" align="right">
 
 - 🌱 I’m currently learning **Javascript,Neural Networks**
 
