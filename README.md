@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mathangy K</h1>
+<!-- <h1 align=center>
+  ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1158F7&width=435&lines=Hi+%F0%9F%91%8B!+I+am+Mathangy)
+</h1> -->
+
 <h3 align="center">Sophomore at SRMIST,KTR</h3>
 <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="300" align="right">
 
