@@ -31,8 +31,9 @@
 </h1>
 
 ## 🏆 GitHub Trophies
+<h1 align="center">
 ![](https://github-profile-trophy.vercel.app/?username=mkswagger&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
+<h1>
 ---
 [![](https://visitcount.itsvg.in/api?id=mkswagger&icon=0&color=3)](https://visitcount.itsvg.in)
 
