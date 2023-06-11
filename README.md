@@ -24,10 +24,10 @@
 # 📊 GitHub Stats:
 <h1 align=center>
   
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mkswagger&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mkswagger&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats-.vercel.app/api?username=mkswagger&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-.vercel.appcom/?user=mkswagger&theme=algolia&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&hide=jupyter%20notebook&theme=algolia&show_icons=true) </br>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkswagger&theme=algolia&show_icons=true&layout=donut-vertical&hide=jupyter%20notebook)]</br>
 </h1>
 
 ## 🏆 GitHub Trophies
