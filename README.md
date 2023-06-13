@@ -3,7 +3,7 @@
   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1158F7&width=435&lines=Hi+%F0%9F%91%8B!+I+am+Mathangy)
 </h1> -->
 
-<h3 align="center">Sophomore at SRMIST,KTR</h3>
+<h3 align="center">Pre final year Student at SRMIST,KTR</h3>
 <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="300" align="right">
 
 - 🌱 I’m currently learning **Javascript,Neural Networks**
