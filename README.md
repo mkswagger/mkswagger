@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Javascript,Neural Networks**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mathangy-k**
-- 👀 I’m interested in Machine Learning,Web and App Development
+- 👀 I’m interested in Machine Learning,Web  Development
 
 
 ## 🌐 Socials:
