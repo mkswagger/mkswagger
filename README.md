@@ -10,7 +10,7 @@
 </h1> -->
 
 <h3 align="center">Pre final year Student at SRMIST,KTR</h3>
-<img src="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084" alt="girl" width="300" align="right">-->
+<img src="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-1479408https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.webp" alt="code" width="300" align="right">-->
 
 - 🌱 I’m currently learning **Javascript,Neural Networks**
 
