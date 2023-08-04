@@ -43,7 +43,7 @@
 </h1> -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mkswagger&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mkswagger&margin-w=8&margin-h=4&theme=onedark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mkswagger&icon=0&color=3)](https://visitcount.itsvg.in)
