@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://github.com/mkswagger/mkswagger/assets/34826479/07007a5f-81f9-436d-9e7c-e3d854ba9a5e" alt="☆☆☆" width="800">
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Mathangy K</h1>
 <!-- <h1 align=center>
   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1158F7&width=435&lines=Hi+%F0%9F%91%8B!+I+am+Mathangy)
 </h1> -->
 
 <h3 align="center">Pre final year Student at SRMIST,KTR</h3>
-<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="300" align="right">
+<!--<img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="300" align="right">-->
 
 - 🌱 I’m currently learning **Javascript,Neural Networks**
 
