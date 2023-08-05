@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mkswagger/mkswagger/assets/34826479/07007a5f-81f9-436d-9e7c-e3d854ba9a5e" alt="☆☆☆" width="800">
+  <img src="https://github.com/mkswagger/mkswagger/assets/34826479/d5b82db3-baf8-47b1-b413-c94ba89e0901" alt="☆☆☆" width="800">
 </p>
 
 
