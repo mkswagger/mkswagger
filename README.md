@@ -26,7 +26,20 @@
 <a href="https://www.hackerrank.com/mathangykrishna1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra2111033010115" height="30" width="40" /></a>
 
 # 💻 Tech Stack I work on :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 
 ```cpp
@@ -55,19 +68,16 @@ int main() {
 }
 ```
 # 📊 GitHub Stats:
-<p align = "center">
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkswagger&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkswagger&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
-  
-</p>
-<p align = "center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&theme=dark"/>
-</p>
 
-<p align = "center">
- 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=donut&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=jupyter%20notebook"/>
-</p>
+
+<div align="center" >
+<a  href="https://github.com/SP-XD">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mkswagger&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mkswagger&show_icons=true&locale=en&layout=donut&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=jupyter%20notebook" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkswagger&theme=dark" width="32.5%">
+
+</a>
 
   
 <!--![](https://github-readme-stats-.vercel.app/api?username=mkswagger&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
