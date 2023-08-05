@@ -10,9 +10,10 @@
 </h1> -->
 
 <h3 align="center">Pre final year Student at SRMIST,KTR</h3>
-<div align="right">
-  <img src="https://media.giphy.com/media/dScUyxACi8F0Dczako/giphy.gif" alt="Animated GIF" width="300">
-</div>
+<p align="right">
+  <img src="https://github.com/mkswagger/mkswagger/assets/34826479/4720b9b5-a37d-4593-9bc3-d8d66b0cdf22" alt="typing" width="300">
+</p>
+
 
 - 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me **https://www.linkedin.com/in/mathangy-k**
