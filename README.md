@@ -8,7 +8,7 @@
 <!-- <h1 align=center>
   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1158F7&width=435&lines=Hi+%F0%9F%91%8B!+I+am+Mathangy)
 </h1> -->
-<img src="https://github.com/mkswagger/mkswagger/assets/34826479/4720b9b5-a37d-4593-9bc3-d8d66b0cdf22" alt="typing" width="400" align="right">
+<img src="https://github.com/mkswagger/mkswagger/assets/34826479/4720b9b5-a37d-4593-9bc3-d8d66b0cdf22" alt="typing" width="300" align="right">
 
 <div style="display: flex; justify-content: space-between;">
   <div>
