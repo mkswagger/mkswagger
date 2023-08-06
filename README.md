@@ -17,7 +17,7 @@
     <ul>
       <li>🌱 I’m currently learning <strong>Javascript</strong></li>
       <li>📫 How to reach me <a href="https://www.linkedin.com/in/mathangy-k">https://www.linkedin.com/in/mathangy-k</a></li>
-      <li>🧠🦾 I’m interested in Machine Learning, Web Development</li>
+      <li>🧠🦾 I’m interested in Machine Learning,MERN Stack</li>
     </ul>
   </div>
  
