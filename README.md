@@ -47,30 +47,24 @@
 
 
 
-```cpp
-#include <iostream>
-#include <vector>
+```python
+class TechStack:
+    def __init__(self):
+        self.programmingLanguages = ["Python", "JavaScript", "C", "C++"]
+        self.webDevelopment = ["HTML", "CSS", "JS", "React"]
+        self.appDevelopment = ["Dart"]
+        self.versionControl = ["Git"]
+        self.cloudServices = ["AWS"]
+        self.pythonLibraries = ["TensorFlow", "Keras", "NumPy", "Pandas", "Seaborn", "Matplotlib", "PyTorch", "Rasa"]
+        self.databases = ["MySQL", "MongoDB"]
+        self.backendFrameworks = ["Django", "Flask"]
 
-class TechStack {
-public:
-    std::vector<std::string> programmingLanguages = {"Python", "JavaScript", "C", "C++"};
-    std::vector<std::string> webDevelopment = {"HTML", "CSS", "JS", "React"};
-    std::vector<std::string> appDevelopment = {"Dart"};
-    std::vector<std::string> versionControl = {"Git"};
-    std::vector<std::string> cloudServices = {"AWS"};
-    std::vector<std::string> pythonLibraries = {"TensorFlow", "Keras", "NumPy", "Pandas", "Seaborn", "Matplotlib", "PyTorch", "Rasa"};
-    std::vector<std::string> databases = {"MySQL", "MongoDB"};
-    std::vector<std::string> backendFrameworks = {"Django", "Flask"};
+    def __str__(self):
+        return "Tech stack initialized!"
 
-    TechStack() {
-        std::cout << "Tech stack initialized!" << std::endl;
-    }
-};
+techStack = TechStack()
+print(techStack)
 
-int main() {
-    TechStack techStack;
-    return 0;
-}
 ```
 # 📊 GitHub Stats:
 
