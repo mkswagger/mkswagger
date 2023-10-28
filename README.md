@@ -52,7 +52,7 @@ class TechStack:
     def __init__(self):
         self.programmingLanguages = ["Python", "JavaScript", "C", "C++"]
         self.webDevelopment = ["HTML", "CSS", "JS", "React"]
-        self.appDevelopment = ["Dart"]
+        self.appDevelopment = ["Dart" , "Swift" , "SwiftUI" ,"Storyboard"]
         self.versionControl = ["Git"]
         self.cloudServices = ["AWS"]
         self.pythonLibraries = ["TensorFlow", "Keras", "NumPy", "Pandas", "Seaborn", "Matplotlib", "PyTorch", "Rasa"]
