@@ -31,6 +31,8 @@
 <a href="https://www.hackerrank.com/mathangykrishna1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra2111033010115" height="30" width="40" /></a>
 
 # 💻 Tech Stacks I work on :
+<!--![Group 131](https://github.com/mkswagger/mkswagger/assets/34826479/0642c05d-1a75-42c6-99db-330138b4c752)-->
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
