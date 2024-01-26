@@ -14,7 +14,6 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3 align="center">Pre final year Student at SRMIST, KTR</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=AE0CF7&random=false&width=435&lines=You+can+find+me+coding+ML+models;You+can+find+me+exploring+tech+stacks;Sharpening+my+problem+solving+skills;The+best+is+yet+to+come+)](https://git.io/typing-svg)
     <ul>
       <li>🌱 I’m currently learning <strong>React</strong></li>
       <li>📫 How to reach me <a href="https://www.linkedin.com/in/mathangy-k">https://www.linkedin.com/in/mathangy-k</a></li>
@@ -24,16 +23,17 @@
  
 </div>
 
-
 ## 📬 Socials:
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathangy-k/) -->
 <a href="https://linkedin.com/in/mathangy-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathangy-k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srmcse_358" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmcse_358" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mathangykrishna1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra2111033010115" height="30" width="40" /></a>
 
+
 # 💻 Tech Stacks I work on :
 <!--![Group 131](https://github.com/mkswagger/mkswagger/assets/34826479/0642c05d-1a75-42c6-99db-330138b4c752)-->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=AE0CF7&width=435&lines=You+can+find+me+coding+ML+models;Exploring+new+tech+stacks;Sharpening+my+problem-solving+skills;The+best+is+yet+to+come+)](https://git.io/typing-svg)
+ 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
