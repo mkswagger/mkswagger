@@ -14,6 +14,7 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3 align="center">Pre final year Student at SRMIST, KTR</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=AE0CF7&random=false&width=435&lines=You+can+find+me+coding+ML+models;You+can+find+me+exploring+tech+stacks;Sharpening+my+problem+solving+skills;The+best+is+yet+to+come+)](https://git.io/typing-svg)
     <ul>
       <li>🌱 I’m currently learning <strong>React</strong></li>
       <li>📫 How to reach me <a href="https://www.linkedin.com/in/mathangy-k">https://www.linkedin.com/in/mathangy-k</a></li>
