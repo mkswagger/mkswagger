@@ -27,8 +27,7 @@
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mathangy-k/) -->
 <a href="https://linkedin.com/in/mathangy-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathangy-k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/srmcse_358" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmcse_358" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mathangykrishna1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ra2111033010115" height="30" width="40" /></a>
-<a href="https://leetcode.com/mathangykrishna16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/diyavrghs/" height="30" width="40" /></a>
+<a href="https://leetcode.com/mkswagger/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/diyavrghs/" height="30" width="40" /></a>
 
 # 💻 Tech Stacks I work on :
 <!--![Group 131](https://github.com/mkswagger/mkswagger/assets/34826479/0642c05d-1a75-42c6-99db-330138b4c752)-->
