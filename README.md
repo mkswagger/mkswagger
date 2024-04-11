@@ -19,6 +19,7 @@
       <li>🌱 I’m currently learning <strong>React</strong></li>
       <li>📫 How to reach me <a href="https://www.linkedin.com/in/mathangy-k">https://www.linkedin.com/in/mathangy-k</a></li>
       <li>🧠🦾 I’m interested in Machine Learning,MERN Stack</li>
+      <li>🎖️ Ask me anything about  ios dev and machine learning </li>
     </ul>
   </div>
  
