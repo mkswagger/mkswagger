@@ -47,9 +47,9 @@ class TechStack:
         self.appDevelopment = ["Dart" , "Swift" , "SwiftUI" ,"UIKit"]
         self.versionControl = ["Git"]
         self.cloudServices = ["AWS"]
-        self.pythonLibraries = ["TensorFlow", "Keras", "NumPy", "Pandas", "Seaborn", "Matplotlib", "PyTorch", "Rasa"]
-        self.databases = ["MySQL", "MongoDB"]
-        self.backendFrameworks = ["Django", "Flask"]
+        self.pythonLibraries = ["TensorFlow", "Keras", "NumPy", "Pandas", "Seaborn", "Matplotlib", "PyTorch", "Langchain"]
+        self.databases = ["MySQL", "MongoDB","postgres","Firebase"]
+        self.backendFrameworks = ["Django", "Flask","Express","Node"]
 
     def __str__(self):
         return "Tech stack initialized!"
