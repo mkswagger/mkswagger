@@ -14,7 +14,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <h3 align="center">Pre final year Student at SRMIST, KTR</h3>
+    <h3 align="center"> Final year Student at SRMIST, KTR</h3>
     <ul>
       <li>🌱 I’m currently learning <strong>React</strong></li>
       <li>📫 How to reach me <a href="https://www.linkedin.com/in/mathangy-k">https://www.linkedin.com/in/mathangy-k</a></li>
