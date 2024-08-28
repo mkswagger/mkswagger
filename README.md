@@ -36,7 +36,7 @@
 <!--![Group 131](https://github.com/mkswagger/mkswagger/assets/34826479/0642c05d-1a75-42c6-99db-330138b4c752)-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=AE0CF7&width=435&lines=You+can+find+me+coding+ML+models;Exploring+new+tech+stacks;Sharpening+my+problem-solving+skills;The+best+is+yet+to+come+)](https://git.io/typing-svg)
  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,arduino,css,dart,django,express,figma,firebase,flask,flutter,git,github,gitlab,gulp,html,java,js,linux,md,mysql,mongodb,nodejs,aws,docker,dotnet,anaconda,opencv,postman,pytorch,sqlite,mysql,supabase,sklearn,selenium,swift,tensorflow&perline=21)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,arduino,css,dart,django,express,figma,firebase,flask,flutter,git,github,gitlab,gulp,html,java,js,linux,md,mysql,mongodb,nodejs,aws,docker,dotnet,anaconda,opencv,postman,pytorch,sqlite,supabase,sklearn,swift,tensorflow&perline=21)](https://skillicons.dev)
 
 
 ```python
