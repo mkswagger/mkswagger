@@ -52,7 +52,7 @@ class TechStack:
         self.backendFrameworks = ["Django", "Flask","Express","Node"]
 
     def __str__(self):
-        return "Tech stack initialized!"
+        return "You know I code :) !"
 
 techStack = TechStack()
 print(techStack)
