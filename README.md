@@ -42,7 +42,7 @@
 ```python
 class TechStack:
     def __init__(self):
-        self.programmingLanguages = ["Python", "JavaScript", "C", "C++"]
+        self.programmingLanguages = ["Python", "JavaScript", "C", "C++","C#"]
         self.webDevelopment = ["HTML", "CSS", "JS", "React"]
         self.appDevelopment = ["Dart" , "Swift" , "SwiftUI" ,"UIKit"]
         self.versionControl = ["Git"]
