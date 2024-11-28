@@ -10,7 +10,8 @@
 <!-- <h1 align=center>
   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1158F7&width=435&lines=Hi+%F0%9F%91%8B!+I+am+Mathangy)
 </h1> -->
-  <img src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s2048x3072/be56de3866ebc146e4f1b0893ca69b955a92ae23.gif" alt="☆☆☆" width="300" align="right">
+<!--   <img src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s2048x3072/be56de3866ebc146e4f1b0893ca69b955a92ae23.gif" alt="☆☆☆" width="300" align="right"> -->
+    <img src="https://github.com/user-attachments/assets/daddbff4-d817-4ed3-88a0-1d9f446bf2b3" alt="☆☆☆" width="300" align="right">
 <!-- <img src="https://github.com/mkswagger/mkswagger/assets/34826479/b4b5f9d6-ef27-4985-8f2c-95479d6baba8" alt="typing" width="300" align="right"> -->
 
 <div style="display: flex; justify-content: space-between;">
